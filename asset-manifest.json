@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/static/css/main.fb0269bf.css",
-    "main.js": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/static/js/main.7560aa55.js",
-    "static/js/453.e26c38a7.chunk.js": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/static/js/453.e26c38a7.chunk.js",
-    "index.html": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/index.html",
-    "main.fb0269bf.css.map": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/static/css/main.fb0269bf.css.map",
-    "main.7560aa55.js.map": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/static/js/main.7560aa55.js.map",
-    "453.e26c38a7.chunk.js.map": "/dharsinijagadeesan.github.io/Language-Translator-ReactJS/static/js/453.e26c38a7.chunk.js.map"
+    "main.css": "/Language-Translator-ReactJS/static/css/main.fb0269bf.css",
+    "main.js": "/Language-Translator-ReactJS/static/js/main.9404d295.js",
+    "static/js/453.e26c38a7.chunk.js": "/Language-Translator-ReactJS/static/js/453.e26c38a7.chunk.js",
+    "index.html": "/Language-Translator-ReactJS/index.html",
+    "main.fb0269bf.css.map": "/Language-Translator-ReactJS/static/css/main.fb0269bf.css.map",
+    "main.9404d295.js.map": "/Language-Translator-ReactJS/static/js/main.9404d295.js.map",
+    "453.e26c38a7.chunk.js.map": "/Language-Translator-ReactJS/static/js/453.e26c38a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0269bf.css",
-    "static/js/main.7560aa55.js"
+    "static/js/main.9404d295.js"
   ]
 }
